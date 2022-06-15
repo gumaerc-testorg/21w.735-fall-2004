@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides bibliographic citations for required and optional
+  course textbooks.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
