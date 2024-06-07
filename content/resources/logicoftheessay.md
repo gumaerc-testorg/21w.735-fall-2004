@@ -3,6 +3,7 @@ content_type: resource
 description: Table showing characteristics of different essay 'logics' with examples
   of each.
 file: /courses/21w-735-writing-and-reading-the-essay-fall-2004/e69d3bf679322c1899f49bf84064e2d4_logicoftheessay.pdf
+file_size: 20923
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
